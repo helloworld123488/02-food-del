@@ -1,0 +1,16 @@
+.header{
+    position:relative;
+    background:url('header_img.png');
+    height:34vw;
+    margin:30px auto;
+}
+
+.header-content{
+    position:absolute;
+    bottom:10%;
+    left:6vw;
+    display:flex;
+    flex-direction:column;
+    gap:1.5vw;
+    align-items:start;
+}
