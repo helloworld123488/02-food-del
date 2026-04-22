@@ -1,6 +1,6 @@
 .header{
     position:relative;
-    background:url('header_img.png');
+    background:url('/header_img.png');
     height:34vw;
     margin:30px auto;
 }
